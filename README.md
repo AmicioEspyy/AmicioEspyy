@@ -9,3 +9,5 @@
 🔭 I love programming and computing.
 
 ✨ I'm currently learning computer science.
+
+[![EspyyJavaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=EspyyJavaw)]
