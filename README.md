@@ -1,6 +1,6 @@
 ## <img src = "https://github.com/EspyyJavaw/EspyyJavaw/blob/main/about.gif?raw=true" width = 30px> **About me (Who am I?)**
 ### 🐢 Hello, my nickname is Espyy, I'm...
-- A programmer with a passion for IT security;
+- A developer with a passion for IT security;
 - A music lover;
 - An IT student.
 
